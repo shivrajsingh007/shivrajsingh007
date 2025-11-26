@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/badge/website-yourwebsite.com-0ea5e9)](https://yourwebsite.com)
 [![Email](https://img.shields.io/badge/email-you%40mail.com-ea4335)](mailto:you@mail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](www.linkedin.com/in/shivraj-singh-16aa71281)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/shivraj-singh-16aa71281)
 
 [![Top Langs](https://img.shields.io/badge/top--langs-★-ff69b4)](#github-stats)
 
