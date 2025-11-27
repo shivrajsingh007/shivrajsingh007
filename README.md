@@ -56,8 +56,8 @@ A short 1–2 line description. Tech: `React`, `Next.js`, `Vercel`.
 ---
 
 ## 📫 How to reach me
-- Email: `you@mail.com`  
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)  
+- Email: [you@mail.com](https://shivrasingh1458@gmail.com)
+- LinkedIn: [yourprofile](https://www.linkedin.com/in/shivraj-singh-16aa71281)  
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
