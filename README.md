@@ -14,7 +14,8 @@
 - Primary focus: **Backend systems**, **APIs**, and **Data-driven features**.
 - Learning: distributed systems, ML applied to production, and UX for dev tools.
 
-> "Build small, measure fast, iterate better." — My product mantra.
+
+> "Build small, measure fast, iterate better." — My product mantraa
 
 ---
 
@@ -31,7 +32,6 @@
 - Built and shipped production-grade microservices handling thousands of requests/sec.
 - Led a cross-functional feature from idea → production, increasing engagement by **+25%**.
 - Open-source contributor — bug fixes, docs, and a couple of small libraries.
-
 ---
 
 ## 💼 Featured Projects
