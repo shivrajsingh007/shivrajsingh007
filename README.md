@@ -20,7 +20,7 @@
 ---
 
 ## 🛠️ Tech & Tools
-- **Languages:** `Python`, `JavaScript (Node.js)`, `TypeScript`, `C++`
+- **Languages:** `Python`, `JavaScript (Node.js)`, `TypeScript`
 - **Frameworks / Libraries:** `FastAPI`, `Express`, `React`, `Next.js`
 - **Data / ML:** `Pandas`, `scikit-learn`, `SQL`, `Postgres`
 - **Infra / DevOps:** `Docker`, `Kubernetes`, `AWS` (EC2, S3, Lambda), `CI/CD`
