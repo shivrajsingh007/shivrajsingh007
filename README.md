@@ -10,7 +10,7 @@
 ---
 
 ## 🔭 About me
-- I love solving real-world problems using clean code and thoughtful design
+- I love solving real-world problems using clean code and thoughtful design.
 - Primary focus: **Backend systems**, **APIs**, and **Data-driven features**.
 - Learning: distributed systems, ML applied to production, and UX for dev tools.
 
