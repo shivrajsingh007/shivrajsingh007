@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Aspiring Full Stack Developer | JavaScript Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;JavaScript+Developer;Open+Source+Learner;Building+Awesome+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;JavaScript+Developer;Open+Source+Learner;Building+Awesome+Projects"/>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 - 🌱 Currently learning **JavaScript & Backend Development**
 - 💻 Love building **Web Applications**
-- 🚀 Working on improving **Data Structures & Algorithms**
+- 🧠 Practicing **Data Structures & Algorithms on LeetCode**
 - 🎯 Goal: Become a **Full Stack Developer**
 
 ---
@@ -21,7 +21,7 @@
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,mongodb"/>
 </p>
 
 ---
@@ -38,33 +38,48 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=shivrajsingh007&theme=tokyonight"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivrajsingh007&theme=tokyo-night"/>
 
 ---
 
-# 🐍 Contribution Snake
+# 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img height="200" src="https://leetcard.jacoblin.cool/shivraj_singh0007?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
 
-# 🧠 LeetCode Stats
+# 🟡 Pacman Eating My Commits
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/shivrajsingh007?theme=dark&font=Baloo&ext=heatmap"/>
+<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg"/>
 </p>
+
+---
+
+# 🚀 Projects
+
+### 🎵 Spotify Clone
+A frontend clone of Spotify built using HTML, CSS and JavaScript.
+
+🔗 https://github.com/shivrajsingh007/Spotify-Clone
+
+---
+
+### 🧠 Simon Says Memory Game
+A browser game that tests memory by repeating color sequences.
+
+🔗 https://github.com/shivrajsingh007/Simon-Says-Memory-Game
+
+---
+
+### ✅ TODO List App
+A simple task manager to add, delete and manage daily tasks.
+
+🔗 https://github.com/shivrajsingh007/TODO-List-
 
 ---
 
@@ -92,10 +107,6 @@
 
 ---
 
-# 💻 Developer Animation
-
 <p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=120&section=footer"/>
+</p>
