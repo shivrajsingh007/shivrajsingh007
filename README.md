@@ -54,28 +54,23 @@
 </p>
 ---
 
-# 🚀 Projects
+## 🚀 Featured Projects
 
-### 🎵 Spotify Clone
-A frontend clone of Spotify built using HTML, CSS and JavaScript.
+<p align="center">
 
-🔗 https://github.com/shivrajsingh007/Spotify-Clone
+<a href="https://github.com/shivrajsingh007/Spotify-Clone">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivrajsingh007&repo=Spotify-Clone&theme=tokyonight" />
+</a>
 
----
+<a href="https://github.com/shivrajsingh007/Simon-Says-Memory-Game">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivrajsingh007&repo=Simon-Says-Memory-Game&theme=tokyonight" />
+</a>
 
-### 🧠 Simon Says Memory Game
-A browser game that tests memory by repeating color sequences.
+<a href="https://github.com/shivrajsingh007/TODO-List-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivrajsingh007&repo=TODO-List-&theme=tokyonight" />
+</a>
 
-🔗 https://github.com/shivrajsingh007/Simon-Says-Memory-Game
-
----
-
-### ✅ TODO List App
-A simple task manager to add, delete and manage daily tasks.
-
-🔗 https://github.com/shivrajsingh007/TODO-List-
-
----
+</p>
 
 # 🌐 Connect With Me
 
