@@ -18,10 +18,10 @@
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,mongodb"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,mongodb" />
 </p>
 
 ---
@@ -56,21 +56,24 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
+### 🎵 Spotify Clone
+A frontend clone of Spotify built using HTML, CSS and JavaScript.
 
-<a href="https://github.com/shivrajsingh007/Spotify-Clone">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivrajsingh007&repo=Spotify-Clone&theme=tokyonight" />
-</a>
+🔗 https://github.com/shivrajsingh007/Spotify-Clone
 
-<a href="https://github.com/shivrajsingh007/Simon-Says-Memory-Game">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivrajsingh007&repo=Simon-Says-Memory-Game&theme=tokyonight" />
-</a>
+---
 
-<a href="https://github.com/shivrajsingh007/TODO-List-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivrajsingh007&repo=TODO-List-&theme=tokyonight" />
-</a>
+### 🧠 Simon Says Memory Game
+A memory game that challenges players to repeat color patterns.
 
-</p>
+🔗 https://github.com/shivrajsingh007/Simon-Says-Memory-Game
+
+---
+
+### ✅ TODO List
+A simple task manager for organizing daily tasks.
+
+🔗 https://github.com/shivrajsingh007/TODO-List-
 
 # 🌐 Connect With Me
 
