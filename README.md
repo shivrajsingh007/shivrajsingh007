@@ -47,17 +47,16 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/shivraj_singh0007?theme=dark&font=Baloo&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/shivraj_singh007?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
 
-## 🟡 Pacman Eating My Commits
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg"/>
-</p>>
-
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 ---
 
 # 🚀 Projects
