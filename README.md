@@ -1,19 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=200&section=header&text=Shivraj%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
 <h1 align="center">Hi 👋, I'm Shivraj Singh</h1>
 <h3 align="center">🚀 Aspiring Full Stack Developer | JavaScript Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;JavaScript+Developer;Open+Source+Learner;Building+Cool+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;JavaScript+Developer;Open+Source+Learner;Building+Awesome+Projects" />
 </p>
 
 ---
 
-# 🧑‍💻 About Me
+# 👨‍💻 About Me
 
 - 🌱 Currently learning **JavaScript & Backend Development**
 - 💻 Love building **Web Applications**
+- 🚀 Working on improving **Data Structures & Algorithms**
 - 🎯 Goal: Become a **Full Stack Developer**
-- ⚡ Fun fact: I enjoy solving coding problems
 
 ---
 
@@ -62,7 +63,7 @@
 # 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/yourusername?theme=dark"/>
+<img src="https://leetcard.jacoblin.cool/shivrajsingh007?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
@@ -71,11 +72,11 @@
 
 <p align="center">
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/shivrasingh">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:shivrajsingh1458@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -96,3 +97,5 @@
 <p align="center">
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=120&section=footer"/>
