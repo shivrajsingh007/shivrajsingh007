@@ -44,19 +44,19 @@
 
 ---
 
-# 🧠 LeetCode Stats
+## 🧠 LeetCode Stats
 
 <p align="center">
-<img height="200" src="https://leetcard.jacoblin.cool/shivraj_singh0007?theme=dark&font=Baloo&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/shivraj_singh0007?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
 
-# 🟡 Pacman Eating My Commits
+## 🟡 Pacman Eating My Commits
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman.svg"/>
-</p>
+</p>>
 
 ---
 
