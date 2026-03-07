@@ -1,84 +1,98 @@
-# 👋 Hi, I’m Shivraj Singh 
-### 👨‍💻 Software Engineer | 🧠 Data Enthusiast | 🚀 Building delightful product experiences
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=200&section=header&text=Shivraj%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<h1 align="center">Hi 👋, I'm Shivraj Singh</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | JavaScript Enthusiast</h3>
 
-[![Website](https://img.shields.io/badge/website-yourwebsite.com-0ea5e9)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/email-%40mail.com-ea4335)](https://shivrasingh1458@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://www.linkedin.com/in/shivrasingh)
-
-[![Top Langs](https://img.shields.io/badge/top--langs-★-ff69b4)](#github-stats)
-
----
-
-## 🔭 About me
-- I love solving real-world problems using clean code and thoughtful design.
-- Primary focus: **Backend systems**, **APIs**, and **Data-driven features**.
-- Learning: distributed systems, ML applied to production, and UX for dev tools.
-
-
-> "Build small, measure fast, iterate better." — My product mantraa
-
----
-
-## 🛠️ Tech & Tools
-- **Languages:** `Python`, `JavaScript (Node.js)`, `TypeScript`
-- **Frameworks / Libraries:** `FastAPI`, `Express`, `React`, `Next.js`
-- **Data / ML:** `Pandas`, `scikit-learn`, `SQL`, `Postgres`
-- **Infra / DevOps:** `Docker`, `Kubernetes`, `AWS` (EC2, S3, Lambda), `CI/CD`
-- **Other:** Git, Linux, REST, GraphQL, WebSockets
-
----
-
-## 🔥 Highlights
-- Built and shipped production-grade microservices handling thousands of requests/sec.
-- Led a cross-functional feature from idea → production, increasing engagement by **+25%**.
-- Open-source contributor — bug fixes, docs, and a couple of small libraries.
----
-
-## 💼 Featured Projects
-### [Project-One](https://github.com/USERNAME/project-one)  
-A short 1–2 line description. Tech: `FastAPI`, `Postgres`, `Docker`.  
-⭐ Features: high-performance APIs, clean auth, test coverage.
-
-### [Project-Two](https://github.com/USERNAME/project-two)  
-A short 1–2 line description. Tech: `React`, `Next.js`, `Vercel`.  
-⭐ Features: responsive design, accessibility, internationalization.
-
-(See [my repositories](https://github.com/USERNAME?tab=repositories) for more.)
-
----
-
-## 📊 GitHub Stats
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;JavaScript+Developer;Open+Source+Learner;Building+Cool+Projects" />
 </p>
 
 ---
 
-## 📫 How to reach me
-- Email: [you@mail.com](https://shivrasingh1458@gmail.com)
-- LinkedIn: [yourprofile](https://www.linkedin.com/in/shivraj-singh-16aa71281)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+# 🧑‍💻 About Me
+
+- 🌱 Currently learning **JavaScript & Backend Development**
+- 💻 Love building **Web Applications**
+- 🎯 Goal: Become a **Full Stack Developer**
+- ⚡ Fun fact: I enjoy solving coding problems
 
 ---
 
-## ⚡ Fun facts
-- ☕ Coffee-fueled coder
-- 🎧 Podcast listener — loves tech deep-dives
-- 🧩 Enjoy puzzles and algorithm challenges on the weekends
+# 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,mongodb" />
+</p>
 
 ---
 
-## ❤️ Support / Sponsors
-If you like my projects or want to sponsor a feature, feel free to reach out!
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shivrajsingh007&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajsingh007&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-### ✨ Want to customize quickly?
-- Replace `USERNAME` with your GitHub username in the stats image URLs.
-- Replace `YOUR_NAME`, contact links and project links.
-- To change the theme of the stats cards, swap `theme=radical` for `dark`, `vue`, `solarized-light`, etc. (see github-readme-stats docs).
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shivrajsingh007&theme=tokyonight"/>
+</p>
 
 ---
 
-*Made with ❤️ — keep building.*
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivrajsingh007&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/yourusername?theme=dark"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shivrajsingh007&label=Profile%20Views&color=blue&style=flat"/>
+</p>
+
+---
+
+# 💻 Developer Animation
+
+<p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+</p>
