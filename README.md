@@ -29,11 +29,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shivrajsingh007&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shivrajsingh007&layout=compact&theme=tokyonight" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivrajsingh007&theme=tokyonight"/>
 </p>
 ---
 
