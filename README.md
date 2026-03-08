@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=200&section=header&text=Shivraj%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-<img src="profile.png" width="220" alt="Shivraj Singh">
+<img src="profile_circle.png" width="220" alt="Shivraj Singh">
 </p>
 
 <h2 align="center">Hi 👋 I'm Shivraj Singh</h2>
