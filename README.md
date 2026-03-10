@@ -82,7 +82,19 @@ A memory game where players repeat color patterns.
 ### ✅ TODO List
 A simple web app to manage daily tasks.
 
-🔗 https://github.com/shivrajsingh007/TODO-List-
+🔗 https://github.com/shivrajsingh007/TODO-List
+
+### 🌐 NovaBlog
+A responsive blogging website built using **HTML and CSS** featuring a clean UI, article layout, and modern blog structure.
+
+🔗 https://github.com/shivrajsingh007/NovaBlog
+
+---
+
+### 💼 Personal Portfolio
+A personal developer portfolio showcasing projects, skills, and profile information built using **HTML, CSS and JavaScript**.
+
+🔗 https://github.com/shivrajsingh007/Personal-Portfolio
 
 ---
 
