@@ -11,7 +11,7 @@
 <td width="35%" align="center" valign="middle">
 
 <!-- PROFILE PHOTO with glowing animated border -->
-<img src="https://raw.githubusercontent.com/shivrajsingh007/shivrajsingh007/main/profile.png" width="220" style="border-radius:50%; border: 4px solid #6C63FF;" alt="Shivraj Singh"/>
+<img src="https://raw.githubusercontent.com/shivrajsingh007/shivrajsingh007/main/profile_circle.png" width="220" style="border-radius:50%; border: 4px solid #6C63FF;" alt="Shivraj Singh"/>
 
 <br/><br/>
 
