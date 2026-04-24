@@ -12,7 +12,7 @@
 
 <br/>
 
-<!-- SOCIAL BADGES ROW 1 -->
+<!-- SOCIAL BADGES -->
 <a href="https://linkedin.com/in/shivrajsingh007" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -28,7 +28,6 @@
 
 <br/><br/>
 
-<!-- VISITOR COUNTER + FOLLOWERS -->
 ![Profile Views](https://komarev.com/ghpvc/?username=shivrajsingh007&label=👁️+Profile+Views&color=7C3AED&style=flat-square&abbreviated=true)
 ![GitHub followers](https://img.shields.io/github/followers/shivrajsingh007?label=Followers&style=flat-square&color=EC4899&logo=github)
 ![GitHub User's stars](https://img.shields.io/github/stars/shivrajsingh007?style=flat-square&color=f59e0b&logo=github&label=Total+Stars)
@@ -38,6 +37,14 @@
 ---
 
 ## 🧑‍💻 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/shivrajsingh007/shivrajsingh007/main/profile_circle.png" width="180" style="border-radius: 50%; margin-left: 20px; margin-bottom: 10px;" alt="Shivraj Singh"/>
+
+<!-- 
+  👆 Make sure profile_circle.png is pushed to the root of your
+     shivrajsingh007/shivrajsingh007 repo (your profile README repo).
+     The raw GitHub URL above will work automatically once it's there.
+-->
 
 ```typescript
 const shivraj: Developer = {
@@ -287,15 +294,57 @@ const shivraj: Developer = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🕹️ Pac-Man eats my Contributions!
 
 <div align="center">
 
+<!--
+  HOW TO SET UP THE PAC-MAN ANIMATION:
+  ─────────────────────────────────────
+  1. In your profile repo (shivrajsingh007/shivrajsingh007), go to:
+     Settings → Actions → General → set "Workflow permissions" to Read and Write
+
+  2. Create the file:  .github/workflows/pacman.yml
+     with the content below, then commit it.
+
+  3. Manually trigger it once via Actions tab → "Generate Pac-Man" → Run workflow.
+     After that it auto-runs daily at midnight UTC.
+
+  ─────────────── pacman.yml content ───────────────
+  name: Generate Pac-Man
+
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk/svg-only@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/pacman.svg?palette=github-dark&color_snake=#A855F7&color_dot=#EC4899&color_empty=#0D1117&game=pacman
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ───────────────────────────────────────────────────
+-->
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivrajsingh007/shivrajsingh007/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivrajsingh007/shivrajsingh007/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shivrajsingh007/shivrajsingh007/output/github-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/shivrajsingh007/shivrajsingh007/output/pacman.svg"/>
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/shivrajsingh007/shivrajsingh007/output/pacman.svg"/>
+  <img alt="Pac-Man eating contribution dots" src="https://raw.githubusercontent.com/shivrajsingh007/shivrajsingh007/output/pacman.svg" width="100%"/>
 </picture>
+
+> _Pac-Man gobbles up every commit. Stay consistent — don't let him starve! 👾_
 
 </div>
 
@@ -312,6 +361,61 @@ const shivraj: Developer = {
 | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) Caching & Pub/Sub | `█████░░░░░` 50% | Session management at scale |
 | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) EC2, S3, Lambda | `████░░░░░░` 40% | Deploy full-stack to AWS |
 | 🏗️ System Design | `██████░░░░` 60% | Design distributed systems |
+
+</div>
+
+---
+
+## ⚡ Fun Stats — Level Up Screen 🎮
+
+<div align="center">
+
+```
+
+┌─────────────────────────────────────────────────────────────┐
+│                  🎮  PLAYER: SHIVRAJ.EXE                    │
+│                  📍  SERVER: INDIA  🌏                      │
+├──────────────────────────┬──────────────────────────────────┤
+│  STAT                    │  VALUE                           │
+├──────────────────────────┼──────────────────────────────────┤
+│  🧩 LeetCode Problems    │  485  ████████████████░░░  87%   │
+│  🔥 Max Streak           │  64 Days  (no days off!)         │
+│  🌍 Global Rank          │  #199,642  (climbing fast ↑)     │
+│  🏅 Badges Collected     │  21  (gotta catch 'em all!)      │
+│  ☕ Coffee Consumed      │  ∞  (undefined behaviour)        │
+│  🐛 Bugs Squashed        │  999+  (boss fight daily)        │
+│  🌙 Best Coding Hour     │  00:00 – 03:00  💀               │
+│  🔁 Fav Git Command      │  git commit -m "pls work"        │
+│  📦 Go-To Stack          │  Express + Mongoose + React      │
+│  💥 Deployments Survived │  Many  (some with cold sweat)    │
+│  🎯 Final Boss           │  Land first internship!  ⚔️      │
+├──────────────────────────┼──────────────────────────────────┤
+│  ❤️  HP                  │  ████████████████████  100%      │
+│  ⚡ XP                   │  ████████████████░░░░   80%      │
+│  🧠 INT                  │  ███████████████████░   95%      │
+│  💪 STR (Coffee)         │  ████████████████████  MAX       │
+└──────────────────────────┴──────────────────────────────────┘
+
+         INSERT COIN TO CONTINUE  [ ⭐ STAR A REPO ⭐ ]
+```
+
+</div>
+
+---
+
+## 🎮 Weekly XP Report
+
+<div align="center">
+
+```
+MON  ████████████░░░░░░░░  60 XP   🟢 Leetcode grind
+TUE  █████████████████░░░  85 XP   🔵 Feature shipped
+WED  ██████████████████░░  90 XP   🟣 Late night PR
+THU  ████████████████████ 100 XP   🔥 Bug fixed at 2am
+FRI  ████████░░░░░░░░░░░░  40 XP   😴 Human moment
+SAT  ███████████████░░░░░  75 XP   🟡 New project idea
+SUN  ████████████████░░░░  80 XP   🚀 Deployed to prod
+```
 
 </div>
 
@@ -361,29 +465,6 @@ const shivraj: Developer = {
 
 ---
 
-## ⚡ Fun Stats
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║              🧑‍💻 SHIVRAJ'S DEV DASHBOARD                 ║
-╠══════════════════════════════════════════════════════════╣
-║  ⌨️  Lines of code written      →  A LOT (still counting) ║
-║  ☕  Cups of coffee consumed    →  Too many to count       ║
-║  🐛  Bugs squashed              →  485+ (like LeetCode 😅) ║
-║  🔥  Max LeetCode Streak        →  64 Days 💪              ║
-║  🌙  Favourite coding time      →  Late night 🌙           ║
-║  🔁  Most used Git command      →  git commit -m "fix"     ║
-║  📦  Favourite package          →  express + mongoose      ║
-║  🎯  Current goal               →  Land first internship!  ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 <div align="center">
 
 ### 💭 Dev Philosophy
@@ -391,6 +472,8 @@ const shivraj: Developer = {
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
 > *"Code is like humour. When you have to explain it, it's bad."* — Cory House
+
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
 
 <br/>
 
